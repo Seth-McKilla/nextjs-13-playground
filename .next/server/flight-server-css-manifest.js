@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={}
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/seth/sourcecode/endevrs/nextjs-13-playground/app/page":[]}}
