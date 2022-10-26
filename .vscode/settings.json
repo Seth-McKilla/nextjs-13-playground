@@ -1,3 +1,7 @@
 {
-  "cSpell.words": ["nextjs"]
+  "cSpell.words": [
+    "nextjs"
+  ],
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }
