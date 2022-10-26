@@ -1,7 +1,5 @@
 {
-  "cSpell.words": [
-    "nextjs"
-  ],
+  "cSpell.words": ["nextjs", "tailwindcss"],
   "typescript.tsdk": "./node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
 }

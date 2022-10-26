@@ -1,3 +1,4 @@
+import "../styles/global.css";
 import type { FC } from "react";
 
 interface Props {
