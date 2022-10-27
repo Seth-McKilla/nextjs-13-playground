@@ -1,5 +1,6 @@
-import "../styles/global.css";
+import "tailwindcss/tailwind.css";
 import type { FC } from "react";
+import Navbar from "./Navbar";
 
 interface Props {
   children: React.ReactNode;
@@ -11,7 +12,11 @@ const RootLayout: FC<Props> = ({ children }) => {
       <head>
         <title>Next.js</title>
       </head>
-      <body>{children}</body>
+
+      <body>
+        <Navbar />
+        {children}
+      </body>
     </html>
   );
 };
